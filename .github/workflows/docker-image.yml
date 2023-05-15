@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ackolakitus/devopsd8:1.0
+          tags: ackolakitus/devopsd8:2.0
